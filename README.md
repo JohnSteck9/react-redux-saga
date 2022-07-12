@@ -1,6 +1,6 @@
 ![CI/CD](https://github.com/JohnSteck9/react-redux-saga/workflows/CI/CD/badge.svg)
 [![Codecov](https://img.shields.io/codecov/c/github/JohnSteck9/react-redux-saga)](https://codecov.io/gh/JohnSteck9/react-redux-saga)
-[![License](https://img.shields.io/github/license/JohnSteck9/react-redux-saga)](https://img.shields.io/github/license/JohnSteck9/react-redux-saga)
+[![License](https://img.shields.io/github/license/JohnSteck9/react-redux-saga)](https://github.com/JohnSteck9/react-redux-saga/blob/master/LICENSE)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
