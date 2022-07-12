@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 className="text-3xl font-bold underline">
-          Hello world! 2
+          Hello world! 3
         </h1>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
